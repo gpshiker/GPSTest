@@ -4,4 +4,6 @@ main() {
  ff
  kkk
  jjj
+ ddd
+ eee
 }
